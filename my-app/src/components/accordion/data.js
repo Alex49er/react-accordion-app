@@ -20,3 +20,5 @@ const data = [
         amswer: "Yes it is possible to create an accordion with different components"
     },
 ];
+
+export default data;
