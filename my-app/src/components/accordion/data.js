@@ -1,17 +1,17 @@
 const data = [
     {
         id : '1',
-        question: "What are accordion component?",
-        answer: "Accordion components are used for interface elements",
+        question: "Can you play an accordion?",
+        answer: "No I can't play an accordion as it is a very difficult instrument",
     },
     {
         id : '2',
         question: "What are they used for?",
-        answer: "They are commonly empolyed in various contexts",
+        answer: "To accompany other musicians in certain song genres",
     },
     {
         id : '3',
-        question: "What is an accordion as a musical instrument?",
+        question: "What features does an accordion have?",
         answer: "The accordion is an instrument with a keyboard and bellows",
     },
     {
